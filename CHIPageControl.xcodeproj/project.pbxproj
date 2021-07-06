@@ -46,6 +46,7 @@
 		4313A7EE1E7A92B30015A568 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		4313A7F01E7A92BB0015A568 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		4313A7F21E7A92C40015A568 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		52A148ED26944B1700074CA1 /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +67,7 @@
 		4313A7821E7A831E0015A568 = {
 			isa = PBXGroup;
 			children = (
+				52A148ED26944B1700074CA1 /* Package.swift */,
 				4313A78E1E7A831E0015A568 /* CHIPageControl */,
 				4313A78D1E7A831E0015A568 /* Products */,
 				4313A7EB1E7A92970015A568 /* Frameworks */,
